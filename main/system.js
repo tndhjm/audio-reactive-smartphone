@@ -21,7 +21,7 @@ minRange = 6000;
 maxRange = 8500;
 rangeAverage = 0;
 
-//画面を黒から白に点滅させる閾値の範囲ｓ
+//画面を黒から白に点滅させる閾値の範囲
 maxdb = -70;
 mindb = -80;
 
